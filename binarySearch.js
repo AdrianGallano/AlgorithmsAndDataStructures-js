@@ -21,7 +21,7 @@ function binarySearch(sortedArrayOfNumbers, target){
 const sortedArrayOfNumbers = [13,20,80,65,100,1230,3213,10032];
 let target = 21;
 const result = binarySearch(sortedArrayOfNumbers, target)
-
+    
 
 
 
