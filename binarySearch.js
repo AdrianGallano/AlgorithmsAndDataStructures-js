@@ -24,4 +24,3 @@ const result = binarySearch(sortedArrayOfNumbers, target)
     
 
 
-
